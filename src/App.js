@@ -5,10 +5,10 @@ import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
 import './App.css';
 import './styles.css';
-console.log('OpenAI Key:', process.env.REACT_APP_OPENAI_API_KEY);
+
 
 function App() {
-  const [bgImage, setBgImage] = useState('');
+  const [bgImage, setBgImage] = useState('/v1013-p-0009a.jpg');
   
   return (
     <Router>
