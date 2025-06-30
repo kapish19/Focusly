@@ -30,7 +30,7 @@ const Navbar = ({ setBgImage }) => {
     <nav className="navbar">
       <div className="navbar-brand">
         <h1>Focusly</h1>
-        <span>WORLD 11</span>
+    
       </div>
       
       <div className="navbar-actions">
