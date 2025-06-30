@@ -1,5 +1,9 @@
 # Focusly- AI-Powered Productivity Suite
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Spotify](https://img.shields.io/badge/API-Spotify-1DB954?logo=spotify&logoColor=white)
+![Gemini](https://img.shields.io/badge/API-Gemini-4285F4?logo=google&logoColor=white)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
